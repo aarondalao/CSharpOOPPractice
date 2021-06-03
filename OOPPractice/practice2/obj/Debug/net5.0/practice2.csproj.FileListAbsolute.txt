@@ -1,0 +1,16 @@
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.exe
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.deps.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.runtimeconfig.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.runtimeconfig.dev.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\ref\practice2.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\bin\Debug\net5.0\practice2.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.csprojAssemblyReference.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.AssemblyInfoInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.AssemblyInfo.cs
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\ref\practice2.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice2\obj\Debug\net5.0\practice2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.exe
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.deps.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.runtimeconfig.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.runtimeconfig.dev.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\ref\hamburger.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\bin\Debug\net5.0\hamburger.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.csprojAssemblyReference.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.AssemblyInfoInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.AssemblyInfo.cs
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.csproj.CoreCompileInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\ref\hamburger.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice3\hamburger\obj\Debug\net5.0\hamburger.genruntimeconfig.cache
