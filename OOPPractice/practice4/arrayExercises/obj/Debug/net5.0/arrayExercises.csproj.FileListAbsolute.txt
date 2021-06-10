@@ -1,0 +1,16 @@
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.csprojAssemblyReference.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.AssemblyInfoInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.AssemblyInfo.cs
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.exe
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.deps.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.runtimeconfig.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.runtimeconfig.dev.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\ref\arrayExercises.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\bin\Debug\net5.0\arrayExercises.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\ref\arrayExercises.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\arrayexercises\obj\Debug\net5.0\arrayExercises.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaron\\newprojects\\c#\\ooppractice\\practice4\\arrays\\arrays.csproj": {}
+    "C:\\Users\\aaron\\newprojects\\c#\\OOPPractice\\practice4\\advancearrays1\\AdvanceArrays1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaron\\newprojects\\c#\\ooppractice\\practice4\\arrays\\arrays.csproj": {
+    "C:\\Users\\aaron\\newprojects\\c#\\OOPPractice\\practice4\\advancearrays1\\AdvanceArrays1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\newprojects\\c#\\ooppractice\\practice4\\arrays\\arrays.csproj",
-        "projectName": "arrays",
-        "projectPath": "C:\\Users\\aaron\\newprojects\\c#\\ooppractice\\practice4\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Users\\aaron\\newprojects\\c#\\OOPPractice\\practice4\\advancearrays1\\AdvanceArrays1.csproj",
+        "projectName": "AdvanceArrays1",
+        "projectPath": "C:\\Users\\aaron\\newprojects\\c#\\OOPPractice\\practice4\\advancearrays1\\AdvanceArrays1.csproj",
         "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\newprojects\\c#\\ooppractice\\practice4\\arrays\\obj\\",
+        "outputPath": "C:\\Users\\aaron\\newprojects\\c#\\OOPPractice\\practice4\\advancearrays1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\VS2019SharedComponentsToolsAndSDKs\\NuGetPackages",

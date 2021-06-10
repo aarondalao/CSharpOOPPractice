@@ -1,0 +1,16 @@
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.exe
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.deps.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.runtimeconfig.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.runtimeconfig.dev.json
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\ref\AdvanceArrays1.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\bin\Debug\net5.0\AdvanceArrays1.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.csprojAssemblyReference.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.AssemblyInfoInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.AssemblyInfo.cs
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\ref\AdvanceArrays1.dll
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.pdb
+C:\Users\aaron\newprojects\c#\OOPPractice\practice4\advancearrays1\obj\Debug\net5.0\AdvanceArrays1.genruntimeconfig.cache
