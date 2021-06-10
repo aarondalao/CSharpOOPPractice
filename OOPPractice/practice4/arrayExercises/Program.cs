@@ -1,4 +1,5 @@
 ﻿using System;
+using arrayExercises;
 
 namespace arrayExercises
 {
@@ -25,14 +26,44 @@ namespace arrayExercises
             // ex3.sumOfElements();
 
             // exercise4
-            Exercise4 ex4 = new Exercise4();
-            ex4.enterArrayMax();
-            ex4.acceptArrayElements();
-            ex4.copyArrays();
+            // Exercise4 ex4 = new Exercise4();
+            // ex4.enterArrayMax();
+            // ex4.acceptArrayElements();
+            // ex4.copyArrays();
+
+            
+            /*
+                from this point on, if there's any repetitive methods like getting the max number of the array,
+                i'll use inheritance class concept to create a base class (which is the repetitive ones), and derived class( which is the 
+                exercise specific classes)
+
+                note:
+                ill try to modify exercise 2 to 4 to fit in to my idea.
+            */
+
+            // exercise 5
+            // 
+
+            
+
         }
                
     }
 
+
+    
+    // base class (Parent)
+    class createMyArray{
+        private int[] myArray;
+
+        public void setMyArray(){
+            Console.WriteLine("Input the number of elements to be stored in the array: ");
+            int x = Convert.ToInt32(Console.ReadLine());
+            myArray = new int[x];
+
+        }
+
+    }
 
     // write a program in C# to store element in an array and print it.
     // hard mode: implement it using classes as well.
@@ -177,4 +208,6 @@ namespace arrayExercises
 
         }
     }
+
+
 }
