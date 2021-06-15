@@ -62,6 +62,24 @@ namespace arrayExercises
             myArray = new int[x];
 
         }
+        public void inputMyElements()
+	{
+		Console.WriteLine("Input {0} elements in the array: ", x);
+		for (int i = 0; i < myArray.Length; i++)
+		{
+			Console.WriteLine("Element [{0}] : ", i);
+			myArray[i] = Convert.ToInt32(Console.ReadLine());
+		}
+	}
+
+	public void displayMyArray()
+	{
+		Console.WriteLine("my elements inside array num are:");
+		for (int j = 0; j < myArray.Length; j++)
+		{
+			Console.Write(myArray[j] + " ");
+		}
+	}
 
     }
 
@@ -208,6 +226,19 @@ namespace arrayExercises
 
         }
     }
+    
+    // exercise 5: 
+    // display the total number of duplicates inside the array
+    
+    class exercise5 : createMyArray
+{
+
+
+	public void findDuplicatesInArray()
+	{
+	
+	}
+}
 
 
 }
